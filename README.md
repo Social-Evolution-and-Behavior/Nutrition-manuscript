@@ -8,6 +8,8 @@ by Vikram Chandra<sup>1</sup> and Daniel J. C. Kronauer<sup>1</sup>.
 
 <sup>1</sup> Laboratory of Social Evolution and Behavior, The Rockefeller University, 1230 York Avenue, New York NY 10065, USA
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4473344.svg)](https://doi.org/10.5281/zenodo.4473344)
+
 ## Table of Contents
 * [README](./README.md) - this file
 * [tracking_data](./tracking_data) - folder containing tracking data
