@@ -12,7 +12,7 @@ by Vikram Chandra<sup>1</sup> and Daniel J. C. Kronauer<sup>1</sup>.
 * [README](./README.md) - this file
 * [tracking_data](./tracking_data) - folder containing tracking data
 * [other_data](./other_data) - folder containing raw data for all other experiments
-* [raiding_functions.py](./raiding_functions.py) - custom functions used to extract, process, or analyze tracking data
+* [raid_functions.py](./raiding_functions.py) - custom functions used to extract, process, or analyze tracking data
 * [Nutrition_tracking_analysis.ipynb](./Nutrition_tracking_analysis.ipynb) - Jupyter notebook for analysis of tracking data from experiments manipulating nutrition in both homogenous and mixed colonies
 
 See the Materials and Methods for more details.
